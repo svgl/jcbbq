@@ -83,7 +83,7 @@
         </div>
       </section>
       <section class="text-gray-700 body-font relative">
-        <form name="contact" netlify class="container px-5 py-24 mx-auto">
+        <form name="contact" data-netlify="true" class="container px-5 py-24 mx-auto">
           <div class="flex flex-col text-center w-full mb-12">
             <h1
               class="sm:text-3xl text-2xl font-medium title-font mb-4 text-gray-900"
